@@ -19,7 +19,8 @@ https://www.vegvesen.no/om+statens+vegvesen/om+organisasjonen/apne-data
 
 ## 1030-1100 Nasjonale felleskomponenter fra SVV
 > NN, Difi
-Om løsninger somer foreslått etablert som nasjonale felleskomponenter
+
+Om løsninger som er foreslått etablert som nasjonale felleskomponenter
 
 ## 1100-1130 NVDB 2020-2030 - NVDB som nasjonal tjeneste
 > Terje Brasethvik, NVDB og Geodataseksjonen
