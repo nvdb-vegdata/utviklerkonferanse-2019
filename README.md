@@ -12,26 +12,30 @@ https://www.vegvesen.no/fag/fokusomrader/forskning+og+utvikling/Teknologidagene
 
 
 
-## Data UT - Åpne data fra Statens Vegvesen
+## 1000-1030 Data UT - Åpne data fra Statens Vegvesen
 > Hilde Austlid, IKT Forvaltning og Videreutvikling
 
 https://www.vegvesen.no/om+statens+vegvesen/om+organisasjonen/apne-data
 
-## Nasjonale felleskomponenter fra SVV
-> NN
-
+## 1030-1100 Nasjonale felleskomponenter fra SVV
+> NN, Difi
 Om løsninger somer foreslått etablert som nasjonale felleskomponenter
 
-## NVDB 2020-2030 - NVDB som nasjonal tjeneste
+## 1100-1130 NVDB 2020-2030 - NVDB som nasjonal tjeneste
 > Terje Brasethvik, NVDB og Geodataseksjonen
 
-## Trafikkdata - et år etter åpning
+## 1130-1200 Supplerende NVDB-tjenester
+> Jan Kristian Jensen, NVDB og Geodataseksjonen
+
+# 1200-1300 LUNSJ
+
+
+## 1300-1330 Trafikkdata - et år etter åpning
 > Kristin Gryteselv, Transportteknologi
 
-## NAP - Nasjonalt Tilgangspunkt for Transportdata
-> N.N
-
-## API for kjøretøyopplysninger
+## 1330-1400 NAP - Nasjonalt Tilgangspunkt for Transportdata
 > NN
 
+## 1400-1430 API for kjøretøyopplysninger
+> NN
 https://www.vegvesen.no/om+statens+vegvesen/om+organisasjonen/apne-data/api-for-kjoretoyopplysninger
