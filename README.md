@@ -41,6 +41,7 @@ Om løsninger som er foreslått etablert som nasjonale felleskomponenter
 
 ## 1330-1400 NAP - Nasjonalt Tilgangspunkt for Transportdata
 > NN
+https://dataut.vegvesen.no/group/nap
 
 ## 1400-1430 API for kjøretøyopplysninger
 > NN
