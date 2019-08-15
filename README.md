@@ -26,6 +26,10 @@ Om løsninger som er foreslått etablert som nasjonale felleskomponenter
 > Terje Brasethvik, NVDB og Geodataseksjonen
 
 ## 1130-1200 Supplerende NVDB-tjenester
+* Fiksvegdata - meld feil i NVDB data
+* Visveginfo - spørringer på topologi og historikk
+* OGC karttjenester
+* Tips og tricks
 > Jan Kristian Jensen, NVDB og Geodataseksjonen
 
 # 1200-1300 LUNSJ
