@@ -8,8 +8,7 @@ https://www.vegvesen.no/fag/fokusomrader/forskning+og+utvikling/Teknologidagene
 
 * Tid: Fredag 25. oktober kl1000-1500
 * Sted: Clarion Hotell og Congress, Trondheim
-* Påmelding: kommer
-
+* Påmelding:[Felles med teknologidagene](https://egencia.qondor.com/ParticipantWeb/Registration/91715?bookingRef=0)
 
 
 ## 1000-1030 Data UT - Åpne data fra Statens Vegvesen
