@@ -39,7 +39,10 @@ Om løsninger som er foreslått etablert som nasjonale felleskomponenter
 > Kristin Gryteselv, Transportteknologi
 
 ## 1330-1400 NAP - Nasjonalt Tilgangspunkt for Transportdata
-> NN
+> Mette Hendbukt, Trafikkstyring
+
+Nasjonalt tilgangspunkt for veg- og trafikk, Transportportal.no, er en portal med metadata om blant annet vegstatus, hendelser, reisetider, kollektivruter, rutetider, avvik, varsling og mobilitet. Hensikten er å legge til rette for utvikling av tjenester ved å kombinere data fra ulike datasett og lage nye, gode tjenester rettet mot alle typer trafikanter. Løsningen utvikles og driftes i samarbeid med Brønnøysundsregistrene/Difi og vil nås både gjennom fellesdatakatalog.brreg.no og Transportportal.no. Transportportal.no vil inneholde metadata med link til datakilder og mer informasjon om datasettene. Portalen vil være klar til 1.12.2019. 
+
 https://dataut.vegvesen.no/group/nap
 
 ## 1400-1430 API for kjøretøyopplysninger
