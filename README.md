@@ -45,6 +45,6 @@ Nasjonalt tilgangspunkt for veg- og trafikk, Transportportal.no, er en portal me
 
 https://dataut.vegvesen.no/group/nap
 
-## 1400-1430 API for kjøretøyopplysninger
-> NN
+## 1400-1430 Deling av kjøretøydata
+> Heidi Øwre, Kontor for kjøretøygodkjenning og registrering
 https://www.vegvesen.no/om+statens+vegvesen/om+organisasjonen/apne-data/api-for-kjoretoyopplysninger
