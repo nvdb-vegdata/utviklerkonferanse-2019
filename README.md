@@ -46,5 +46,8 @@ Nasjonalt tilgangspunkt for veg- og trafikk, Transportportal.no, er en portal me
 https://dataut.vegvesen.no/group/nap
 
 ## 1400-1430 Deling av kjøretøydata
-> Heidi Øwre, Kontor for kjøretøygodkjenning og registrering
+> Jeanette Nordan, Kontor for kjøretøygodkjenning og registrering
+
+Interessen for kjøretøydata fra motorvognregisteret er stor. Statens vegvesen jobber med å modernisere våre løsninger for deling av kjøretøydata, i henhold til statens strategier for digitalisering og åpne data. Som et ledd i dette har vi lagt ut teknisk kjøretøyinformasjon på data.norge.no. Datasettene inneholder blant annet teknisk informasjon, noe registreringsinformasjon, EU-kontroll og typegodkjenninger. Dette legger til rette for at aktører kan lage egne verdiøkende tjenester basert på disse dataene. Vi ser også på andre mer fremtidsrettete måter å dele dataene på.
+
 https://www.vegvesen.no/om+statens+vegvesen/om+organisasjonen/apne-data/api-for-kjoretoyopplysninger
