@@ -16,21 +16,22 @@ https://www.vegvesen.no/fag/fokusomrader/forskning+og+utvikling/Teknologidagene
 
 https://www.vegvesen.no/om+statens+vegvesen/om+organisasjonen/apne-data
 
-## 1030-1100 Nasjonale felleskomponenter fra SVV
-> NN, Difi
+## 1030-1100 Matrikkelen som nasjonal felleskomponent
+> Tore Abelvik, Kartverket
 
 Om løsninger som er foreslått etablert som nasjonale felleskomponenter
 
 ## 1100-1130 NVDB 2020-2030 - NVDB som nasjonal tjeneste
-> Terje Brasethvik, NVDB og Geodataseksjonen
+> Jan Kristian Jensen, Terje Brasethvik, NVDB og Geodataseksjonen
 
-## 1130-1200 Supplerende NVDB-tjenester
+Nasjonal vegdatabank (NVDB) skal gjennom regionreformen etableres som en nasjonal tjeneste. NVDB skal være en entydig kilde til navigerbart vegnett, kilde for all statlig rapportering om norske veger, og som et inventarregister for å besvare spørsmål om vegnett og vegobjekter nasjonalt. Fra 1.1.2020 vil situasjonen for dataforvaltning til NVDB endre seg. Brukermiljøet vil være mangfoldig, med stor variasjon i erfaring og behov: Nye Veier med deres entreprenører, Fylkeskommunene med sine vegavdelinger, samt alle norske kommuner, Statens Kartverk og Statens Vegvesen selv. Statens vegvesen vil ikke lengre kunne utvikle og tilby spesialverktøy gratis til alle vegeiere. Vi er derfor avhengig av et samarbeid med markedet om etablering av nye gode løsninger for registrering av data til NVDB. Statens vegvesen vil selv utvikle grensesnitt (API) for skriving og lesing av data til NVDB, samt basisklienter for innsyn (Vegkart) og mottak av data (datafangst), men behov utover dette må vegeiere få dekket fra markedet. Statens vegvesen har i 2019 selv gått til innkjøp av en registreringsklient for NVDB.
+
+* NVDB API Les og Skriv V3
+* Vegnettstjenester i API og Vegkart
 * Fiksvegdata - meld feil i NVDB data
-* Visveginfo - spørringer på topologi og historikk
 * Ruteplantjenesten
 * OGC karttjenester
-* Tips og tricks
-> Jan Kristian Jensen, NVDB og Geodataseksjonen
+
 
 # 1200-1300 LUNSJ
 
