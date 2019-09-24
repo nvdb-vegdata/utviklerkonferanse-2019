@@ -17,9 +17,9 @@ https://www.vegvesen.no/fag/fokusomrader/forskning+og+utvikling/Teknologidagene
 https://www.vegvesen.no/om+statens+vegvesen/om+organisasjonen/apne-data
 
 ## 1030-1100 Matrikkelen som nasjonal felleskomponent
-> Tore Abelvik, Kartverket
+> Olav Jensen, Kartverket
 
-Om løsninger som er foreslått etablert som nasjonale felleskomponenter
+Matrikkelen er etablert som nasjonal felleskomponent.
 
 ## 1100-1130 NVDB 2020-2030 - NVDB som nasjonal tjeneste
 > Jan Kristian Jensen, Terje Brasethvik, NVDB og Geodataseksjonen
