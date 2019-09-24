@@ -14,6 +14,7 @@ https://www.vegvesen.no/fag/fokusomrader/forskning+og+utvikling/Teknologidagene
 ## 1000-1030 Data UT - Åpne data fra Statens Vegvesen
 > Hilde Austlid, IKT Forvaltning og Videreutvikling
 
+Støy, luftkvalitet, verksteder, parkeringsplasser, sykkelruter, museumsgjenstander…  Vi tar en kjapp gjennomgang av forskjellige data som vegvesenet deler – stort og smått, velkjent og obskurt.
 https://www.vegvesen.no/om+statens+vegvesen/om+organisasjonen/apne-data
 
 ## 1030-1100 Matrikkelen som nasjonal felleskomponent
