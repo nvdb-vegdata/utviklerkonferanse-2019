@@ -39,7 +39,7 @@ Nasjonal vegdatabank (NVDB) skal gjennom regionreformen etableres som en nasjona
 ## 1300-1330 Trafikkdata - Hva er kommet på plass et år etter lansering.
 > Pål Thomassen, Transportteknologi
 
-For ett år siden lanserte trafikkdata [trafikkdataportalen](trafikkdata.no) hvor vi har lagt til mye ny funksjonalitet siden da. Dette blir en oppsummering av nyheter siden som er kommet på plass siden sist og en gjennomgang av hva som er tilgjengelig i API. For utviklere blir det en gjennomgang av det tekniske APIet og hvordan man kan bruke det effektivt.
+For ett år siden lanserte trafikkdata [trafikkdataportalen](http://trafikkdata.no) hvor vi har lagt til mye ny funksjonalitet siden da. Dette blir en oppsummering av nyheter siden som er kommet på plass siden sist og en gjennomgang av hva som er tilgjengelig i API. For utviklere blir det en gjennomgang av det tekniske APIet og hvordan man kan bruke det effektivt.
 
 Av nye produkter som er tilgjengelige så er det:
 * Dekningsgrad
