@@ -20,7 +20,8 @@ https://www.vegvesen.no/om+statens+vegvesen/om+organisasjonen/apne-data
 ## 1030-1100 Matrikkelen som nasjonal felleskomponent
 > Olav Jensen, Kartverket
 
-Matrikkelen er etablert som nasjonal felleskomponent.
+Matrikkelen er en av sju nasjonale felleskomponenter i Norge. Eksempel på andre felleskomponenter er Altinn, Det sentrale folkeregisteret og Enhetsregisteret. De nasjonale felleskomponentene er åpne, gjenbrukbare løsninger som dekker ulike behov innenfor forvaltningen. Matrikkelen inneholder informasjon om alle eiendommer, adresser og bygninger i Norge. Det er Kartverket som har ansvaret for utvikling og drift, mens det er kommunene som har ansvaret for etablering og vedlikehold av data. Matrikkelen tilbyr et vidt spekter av muligheter for tilgang. Det er mulighet for å etablere lokale kopier og holde disse oppdatert via API-er som gir tilgang til endringer. I tillegg er det mulig å laste ned ulike typer datasett i ulke formater, og få tilgang til ulike typer visningstjenester. Matrikkelen har koblinger til noen av de andre felleskomponentene, og mot grunnboken. Arbeidet med matrikkelen reguleres av en egen lov «Lov om eigedomsregistrering (Matrikkellova)».
+
 
 ## 1100-1130 NVDB 2020-2030 - NVDB som nasjonal tjeneste
 > Jan Kristian Jensen, Terje Brasethvik, NVDB og Geodataseksjonen
